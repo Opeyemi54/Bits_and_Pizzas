@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bits and Pizzas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_the_order_fragment">This is the order fragment</string>
+    <string name="diavolo">Diavolo</string>
+    <string name="chip_permesan">Permesan</string>
+    <string name="funghai_radio">Funghi</string>
+    <string name="please_choose_any_extras">Please choose any extras</string>
+    <string name="chill_oil">Chill oil</string>
+    <string name="which_type_of_pizza_would_like">Which type of pizza would like?</string>
+</resources>
